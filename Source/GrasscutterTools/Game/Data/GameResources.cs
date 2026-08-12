@@ -344,7 +344,7 @@ namespace GrasscutterTools.Game.Data
                                          .Where(it => it.Key != "MATERIAL_NONE")
                                          .OrderBy(it => it.Average(m => m.Id)))
                             {
-                                sb.Append("// ").AppendLine(MaterialType.ToTranslatedString(m.Key, language.Key));
+                                sb.Append("// ").AppendLine(m.Key != null ? MaterialType.ToTranslatedString(m.Key, language.Key) : "Unknown");
 
                                 if (m.Key == "MATERIAL_BGM")
                                 {

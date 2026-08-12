@@ -38,6 +38,8 @@
 11432:Calamity of Eshu
 11433:Serenity's Call
 11434:Moonweaver's Dawn
+11435:Heretic's Molten Blade
+11436:Emberwell
 11501:Aquila Favonia
 11502:Skyward Blade
 11503:Freedom-Sworn
@@ -54,6 +56,8 @@
 11517:Azurelight
 11518:Athame Artis
 11519:Lightbearing Moonshard
+11520:Whitelake Frostfeather
+11521:Exaiphanes Blade
 12101:Waster Greatsword
 12201:Old Merc's Pal
 12301:Ferrous Shadow
@@ -87,6 +91,8 @@
 12431:Earth Shaker
 12432:Flame-Forged Insight
 12433:Master Key
+12435:Forged by the Golden Melody
+12436:Blade of Atonement
 12501:Skyward Pride
 12502:Wolf's Gravestone
 12503:Song of Broken Pines
@@ -127,6 +133,8 @@
 13432:Tamayuratei no Ohanashi
 13433:Prospector's Shovel
 13434:Sacrificer's Staff
+13435:Frostbreath
+13436:Song of the Vigil
 13501:Staff of Homa
 13502:Skyward Spine
 13504:Vortex Vanquisher
@@ -173,6 +181,8 @@
 14432:Etherlight Spindlelute
 14433:Blackmarrow Lantern
 14434:Dawning Frost
+14435:Clash of Kings
+14436:Echoes of the Heart
 14501:Skyward Atlas
 14502:Lost Prayer to the Sacred Winds
 14504:Memory of Dust
@@ -228,6 +238,8 @@
 15432:Sequence of Solitude
 15433:Snare Hook
 15434:Rainbow Serpent's Rain Bow
+15435:Jade Vista
+15436:Covenant of Frost and Snow
 15501:Skyward Harp
 15502:Amos' Bow
 15503:Elegy for the End
@@ -241,3 +253,6 @@
 15515:The Daybreak Chronicles
 15516:Golden Frostbound Oath
 10009:[CHS] - (test)空武器
+10010:[CHS] - (test)M4A1
+10011:[CHS] - (test)M4A1
+10012:[CHS] - (test)TPS占位空武器

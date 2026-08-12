@@ -438,6 +438,46 @@
 46544:Iridescence That Ceased Amidst Glory
 46553:Moment That Ceased Upon Waking From Grand Dreams
 46554:Moment That Ceased Upon Waking From Grand Dreams
+47412:Chalice of Your Blood and Sorrow
+47413:Chalice of Your Blood and Sorrow
+47422:Glory to Your Legacy
+47423:Glory to Your Legacy
+47432:Testament to Your Faith
+47433:Testament to Your Faith
+47442:Honor to Your Devotion
+47443:Honor to Your Devotion
+47452:Time Gifted Unto You
+47453:Time Gifted Unto You
+47513:Chalice of Your Blood and Sorrow
+47514:Chalice of Your Blood and Sorrow
+47523:Glory to Your Legacy
+47524:Glory to Your Legacy
+47533:Testament to Your Faith
+47534:Testament to Your Faith
+47543:Honor to Your Devotion
+47544:Honor to Your Devotion
+47553:Time Gifted Unto You
+47554:Time Gifted Unto You
+48412:Foundryman's Magnanimity
+48413:Foundryman's Magnanimity
+48422:Foundryman's Observation
+48423:Foundryman's Observation
+48432:Foundryman's Legacy
+48433:Foundryman's Legacy
+48442:Foundryman's Conjecture
+48443:Foundryman's Conjecture
+48452:Foundryman's Calculus
+48453:Foundryman's Calculus
+48513:Foundryman's Magnanimity
+48514:Foundryman's Magnanimity
+48523:Foundryman's Observation
+48524:Foundryman's Observation
+48533:Foundryman's Legacy
+48534:Foundryman's Legacy
+48543:Foundryman's Conjecture
+48544:Foundryman's Conjecture
+48553:Foundryman's Calculus
+48554:Foundryman's Calculus
 51110:Goblet of the Sojourner
 51111:Goblet of the Sojourner
 51112:Goblet of the Sojourner

@@ -180,7 +180,7 @@
 5116:Second Blooming
 5117:Warrior's Spirit
 5118:Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl
-5119:Heated Battle Mode: Sprinting Stratagems
+5119:Heated Battle Mode: Tactical Formation
 5121:Vultur Volans Chapter
 5122:Lord of the Desert
 5126:Desert of Hadramaveth
@@ -213,10 +213,10 @@
 5142:Shared Sight
 5145:Hangout Event
 5148:The Forge Realm's Temper: Endless Swarm
-5119:Heated Battle Mode: Sprinting Stratagems
+5119:Heated Battle Mode: Tactical Formation
 // 4.0
 5148:The Forge Realm's Temper: Endless Swarm
-5119:Heated Battle Mode: Sprinting Stratagems
+5119:Heated Battle Mode: Tactical Formation
 5147:Studies in Light and Shadow: A Fontaine of Enchantment
 5149:Felis Fuscus Chapter
 5150:Relic Records: Creations of the Hydro Nation
@@ -346,6 +346,7 @@
 2047:Where Waves Meet the Reef
 2048:Phantasmal Pals
 2049:Sunny Summer Fontinalia
+2050:Great Expeditionist Challenge
 5152:The Forge Realm's Temper: Game of Wits
 5191:Spino Doubleblaster
 5192:Endless Forms Most Martial
@@ -403,7 +404,7 @@
 5296:Dance Dance Dynamic Disco
 5297:Bing-Bang Finchball
 5298:An Elegy for Faded Moonlight
-5299:Wonderland Treasures: Breezes Meet the Fatebound Sea
+5299:Wonderland Treasures: Phantasmagoric Discourse
 5300:Heroic Clash: Saurian Brawl
 5301:A Nocturne of the Far North
 5302:Draco Rubedo Chapter
@@ -437,8 +438,15 @@
 5330:Beyond Silver and Fine Gold
 5331:Final Long-Range Sightlines
 5332:When We Look Up at the Moon
+5333:Mutual Aid in Bloom: Into the Frostlands
+5334:Trial of the Bastion
 5335:Nod-Krai: Where Roads Are Pledged to Cross
+5336:Immortal Construct
+5337:Chimeric Winged Lion
+5338:The Hunt Begins!
 5339:As All Falls to Emptiness
+5340:The Godforsaken Frostlands
+5341:Everwinter Without Mercy
 6006:Machine Battlefront
 6011:Uncover Lunar Realms, Hone the Eventide Radiance
 6012:Uncover Lunar Realms, Hone the Eventide Radiance

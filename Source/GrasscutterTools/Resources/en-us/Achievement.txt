@@ -451,6 +451,30 @@
 80501:Le Voyage dans la Lune - Unlock all Teleport Waypoints in Nod-Krai and the following areas in the Frost Moon region: Dunanna Pit, Lunar Highlands, and Dark Side of the Moon.
 80502:Darkness Out of Space - Upgrade the Curtain-Form Blackbody Containment Lab to its maximum level.
 80503:The Inner Light - Upgrade the Nuur Stone Circle to its maximum level.
+80504:Continental Explorer: Snow Blanketed Nation (I) - Light up the maps of Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak in the Snezhnaya region.
+80505:Across the Icebound Snowscape (I) - Unlock all Teleport Waypoints in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak in the Snezhnaya region.
+80506:Sanctuary Pilgrim: Snow Blanketed Nation (I) - Unlock all Shrines of Depths in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak in the Snezhnaya region.
+80507:Pale and Lucent as Ice - Upgrade the Statues of The Seven in Snezhnaya to their maximum level.
+80508:Bounty of the Shadow Realm: Snow Blanketed Nation (I) - Unlock all Shadow Realm treasure vaults in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak in the Snezhnaya region.
+80509:The Tundra Will Guide You Home (I) - Follow {param0} Seelies in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak to their Seelie Courts.
+80510:The Tundra Will Guide You Home (I) - Follow {param0} Seelies in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak to their Seelie Courts.
+80511:The Tundra Will Guide You Home (I) - Follow {param0} Seelies in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak to their Seelie Courts.
+80512:Glacial Treasure Hunter (I) - Open {param0} chests in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.
+80513:Glacial Treasure Hunter (I) - Open {param0} chests in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.
+80514:Glacial Treasure Hunter (I) - Open {param0} chests in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.
+80515:Chillwinter Adventurer (I) - Complete {param0} Open World Time Trial Challenges in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.
+80516:Chillwinter Adventurer (I) - Complete {param0} Open World Time Trial Challenges in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.
+80517:Chillwinter Adventurer (I) - Complete {param0} Open World Time Trial Challenges in Everfrozen Earth, Volkodlak Tundra, Flamefeather Valley, White Birch Snowgrave, and Fellfrost Peak.
+80518:Ladder of Love - Complete "Hesperides of Love and Hate."
+80519:Gather for Everlasting Happiness - Complete "In the Dwelling of Life."
+80520:A Thousand Affections Caught in a Sigh - Stop the "Primordial Human" from turning the world into a courtyard untouched by love or sorrow.
+80521:Birth of the Singer in the Shell - Reach maximum Construction Level at the "Meeting Point: Tidesong Cavern."
+80522:Hunt for Your Worth in the Waking World - Reach maximum Construction Level at the "Meeting Point: Huntsman's Cabin."
+80523:Glorification of the Chosen One - Reach maximum Construction Level at the "Meeting Point: The Korolevskiy Theater."
+80529:Open Your Eyelids Lulled by Night - Complete the restoration of Rankova Zorya.
+80525:Requiem of the Icewind - Obtain the power of Cryo.
+80526:When Song Tears the Night - Collect the entire "Polestar Ballet Anthology" series.
+80528:Tales of the Departed - Collect the entire "General History of Snezhnaya" series.
 81000:Overlooking View - Reach the very top of Qingyun Peak.
 81001:The Remains of the Gale - Reach the top of the tower in Stormterror's Lair.
 81002:"Seeds of Stories, Brought by the Wind..." - Reach the nameless island northeast of Mondstadt.
@@ -477,7 +501,7 @@
 81029:Hero-in-Training - Complete 3 Requests.
 81030:Hero-in-Training - Complete 6 Requests.
 81031:Hero-in-Training - Complete 9 Requests.
-81032:QUEST FAILED - Lost track of a Bounty target.
+81032:QUEST FAILED  OR ... - Lost track of the target during a Bounty, or no longer need to pursue Bounties at all...
 81033:The Bleak Midwinter - Succumb to Sheer Cold...
 81034:Priest, Princess, and Scribe - Claim the treasure of the Entombed City.
 81035:Prodigal Son's Return - Follow the path of one of the members of the long-lost investigation team to where they embarked on their journey home.
@@ -1076,6 +1100,32 @@
 81692:"You're looking mighty fine today!" - Obtain the kuuhenki stone painting.
 81693:Walking With Sweet Flowers - Glimpse into a corner of the lost world of Sweet Flowers.
 81699:Should've Picked the Sixpence - Fall in an area with high concentrations of Archaeolune Energy.
+81700:Stay a While, You Are So Beautiful - Pause for a moment to take in the beauty of the white birches and the Snow-Buried Palace.
+81701:Transcender of the Land of Tomorrow - Collect all relics left behind by someone in the Pale Crown Palace.
+81702:Compound Effect - Roll the biggest snowball.
+81703:Wedding Bell - Ring the bell that no longer loops.
+81704:For Whom It Tolls - Let the unbound bell ring out once more.
+81705:Visions in the Match - Bring comfort at last to the troubled one.
+81706:Limits & Demonstrations - Perhaps a work is given a name only so that it may forge another type of bond.
+81707:They Live - Put on the "Eye of Graeae" for the first time.
+81708:Snow, Kristall, and Speed - Give your old train a new lease on life.
+81709:Through the Hall of False Splendor - Collect all paintings in the House of Hesperides and open the hidden treasure beyond.
+81710:For Every Future You - Even if that version of you has yet to arrive.
+81711:Because the Palace Is There - Reach the highest point of the Zapolyarny Palace.
+81712:The Last Rose of Winter - ...Perishing like a moth to the flame.
+81714:Colder Than a Snowman - Win a "cold endurance contest" against a Natlan competitor.
+81715:Ya-ho! - Help the Jack Frost "Village Chief" fend off the Volkodlak invasion.
+81716:Above the High Table - But who still remembers that the "High Table" was built by the Domovoy...?
+81717:The Iceberg Sinks, Never to Rise Again - Witness the end of the colossal Snegovik.
+81718:"The Cherry Orchard Has Been Sold" - Witness the cabin on the ice turn upside down, fall still, and finally sink.
+81720:Route Successfully Planned - Use a Link Mechanism to travel 30 meters horizontally in a single ride.
+81721:Just Like Inspiration - Launch a snowball that begins to fade before it lands.
+81722:You Shall Not Pass - Successfully stop a rolling snowball.
+81724:Sturdy Knees - Remain sliding for 20 seconds.
+81728:A Promise of Old - Back then, the Zolnyy had no king, and everyone did as they saw fit...
+81729:Koski, Options. - Help the Natlan woman calm down her Flowfire Bird companion.
+81730:As My Vision Freezes into Form - Atop the lighthouse, approach the girl's phantom manifested as a statue.
+81731:Drunk as Charged - You can always wake someone who's truly drunk.
 82001:Nothing Special, Just Practice - Hit a falcon mid-flight with your bow.
 82002:Master Sniper - Strike an opponent's weak point from afar with an Aimed Shot.
 82003:Der Freischütz - Strike an opponent's weak point from extremely far away with an Aimed Shot.
@@ -1370,6 +1420,8 @@
 82307:Moonwalker - Destroy the Moonstone Anchor while the Radiant Moongecko is preparing to unleash "Voidstep Reverberation" to disrupt its charging.
 82308:No Element Left Behind - Defeat Active Elemental Stars of every elemental type.
 82309:"Don't Break The Wall" - Evade the constraints of the barrier and dismantle the prison realm constructed by Dottore.
+82310:Hold... Hold... Now! - Interrupt an Immortal Construct's attack by breaking its HP Shield while it's in the Lifeflare state.
+82311:Winged Lion Down - Knock the Chimeric Winged Lion out of the sky by destroying all Anemo Orbs while it is in the Galeforce state.
 84000:The End of the Beginning - Complete the Mondstadt Archon Quests.
 84001:The Outlander Who Caught the Wind - Complete "The Outlander Who Caught the Wind."
 84002:For a Tomorrow Without Tears - Complete "For a Tomorrow Without Tears."
@@ -1556,6 +1608,14 @@
 84388:To Conquer the Depths, To Command All Deceptions - Gather everyone's wishes to save Sumeru.
 84389:The Kalpa Flame Ravages All - Beyond the ash of calamitous fires, the pristine sky remains.
 84390:Truth Amongst the Pages of Purana - Complete "Truth Amongst the Pages of Purana"
+84391:Blizzard-Roaring Overture - Drive the train through the wind and snow in Snezhnaya.
+84392:Mystery Play of the Pale Star - Retrieve the "Exaiphanes Blade" from the ice cave.
+84393:The Howling Gale - Accept your companion's invitation to join The Rokot.
+84394:Everwinter Without Mercy - Complete "Everwinter Without Mercy."
+84395:Waltz of Love or Regret - Watch the trial performance of Spirit Seeker.
+84396:Beyond the Loop - Witness Mitya step into the snowstorm.
+84397:The Three Deaths of Fate - Survive the afterlife.
+84398:Wraith's Nocturne - Complete "Wraith's Nocturne."
 84501:...Odomu? - Successfully conduct cultural exchange with the hilichurls in "Language Exchange."
 84502:Yo dala? - Successfully conduct cultural exchange with the hilichurls in "Poetry Exchange."
 84503:Perfectionist - Complete all of Tsarevich's commissions flawlessly in "Reliable Helper."
@@ -1638,6 +1698,7 @@
 84581:The Packages Returned - Return all four packages to their owners.
 84582:Inspiration Walk - Help Zicheng gather inspiration for poetry...?
 84583:Citius, Altius, Fortius! - Give a perfect training demonstration to Alem.
+84584:The soaring black snow swan - Reaching heights no snow swan has ever reached and daring to dream what no snow swan has ever dreamed.
 85000:Nothing to Lose But Time - Unlock the secrets of two sundials.
 85001:Interview With a Bygone God - Hear the story of a bygone deity.
 85002:Crouching Dragon, Hidden Chi - Learn about the tale of the Chi.
@@ -1758,3 +1819,27 @@
 86054:Royal Fork - Defeat The Game Before the Gate in Co-Op Mode.
 86055:Into the Breach! - Defeat Knuckle Duckle in Co-Op Mode.
 86056:Golden Autumn - Defeat a Radiant Moonfly in Co-Op Mode.
+86059:Tundra Restorer - Clear a large Shadow Realm in Snezhnaya.
+86062:Then I'll See You in the Shadow Realm - Complete an Edge of Survival challenge.
+86063:"Veteran Shadowdiver" - Raise your Shadow Realm Analysis Level to maximum.
+86066:Ace of Survival - Obtain {param0} Edge of Survival Medal(s).
+86067:Tundra Gunsmith (I) - Install 1 accessory on 1 firearm.
+86068:Tundra Gunsmith (II) - Install 2 accessories on 1 firearm.
+86069:Tundra Gunsmith (III) - Install 4 accessories on 1 firearm.
+86071:Tachanka - Install 4 accessories each on "Shatanaya's Frostsilver," "Balsag's Sunwheel," and "Ashamez's Thunder."
+86072:It's High N— - Hit enemy weak points 5 times in a row within 30 seconds.
+86073:Say Hello to My Little Friends! - Trigger 5 elemental reactions with the Grenade Launcher within 30 seconds.
+86074:Aiming While Sliding is Pure Fantasy - Defeat a total of {param0} enemies while sliding.
+86075:For We Are Bound by the Sacred Light Spear - Obtain the Assault Rifle "Shatanaya's Frostsilver."
+86076:The Martial Art of Grenade Launching! - Obtain the Grenade Launcher "Balsag's Sunwheel."
+86077:Warning, Lightning Disaster Created... - Obtain the Assault Rifle "Ashamez's Thunder."
+86078:500 Grams of Love - Obtain a Frag Crystal.
+86079:The Fall of Being - Defeat a Frostnight Herra in Co-Op Mode.
+86080:Twenty-Six. Penetration! - Defeat a Super-Heavy Landrover: Mechanized Fortress in Co-Op Mode.
+86081:Then Don't Say It! - Defeat a Lord of the Hidden Depths: Whisperer of Nightmares in Co-Op Mode.
+86082:Refuse Falsehood, Reveal the Truth - Defeat The Doctor in Co-Op Mode.
+86083:What Did You Even Protect? - Defeat a Radiant Moongecko in Co-Op Mode.
+86084:"If I Whet My Glittering sword..." - Defeat the Watcher: Fallen Vigil in Co-Op Mode.
+86085:Independent Ignorance - Defeat Il Dottore in Co-Op Mode.
+86086:Immortality Severed - Defeat an Immortal Construct in Co-Op Mode.
+86087:Endless Vitality - Defeat a Chimeric Winged Lion in Co-Op Mode.

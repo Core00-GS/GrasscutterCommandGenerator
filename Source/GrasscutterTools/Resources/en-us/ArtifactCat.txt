@@ -61,4 +61,6 @@
 44:A Day Carved From Rising Winds
 45:Celestial Gift
 46:Disenchantment in Deep Shadow
+47:Scarlet Proof
+48:Heart of the Furnace
 99:Lord of the Winds
